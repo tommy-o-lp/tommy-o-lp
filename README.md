@@ -2,7 +2,6 @@
 - i’m interested in web design
 - i’m currently learning javascript
 - i’m looking for feedback and learning resources
-- i can be reached here for now
 - fun fact: curiosity brought me to web design and it's super fun
 
 <!---
